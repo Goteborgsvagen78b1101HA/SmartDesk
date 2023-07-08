@@ -1,5 +1,5 @@
 See the PDF for now
-
+[smartdesktutorial.pdf](https://github.com/Goteborgsvagen78b1101HA/SmartDesk/files/11991453/smartdesktutorial.pdf)
 Smart Home Desk
 
 Tutorial on how to make your electrified standing desk smarter.
@@ -38,3 +38,4 @@ To display data and make automations we are using Home Assistant. This is so tha
 The code
 
 I’m using the _thread lib to utilise both cores in the Pico. One of LEDs and one for everything else, this so that I can run animations on the LED-strip without interrupting other functions. 
+
