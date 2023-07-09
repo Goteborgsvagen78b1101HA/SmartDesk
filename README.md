@@ -7,12 +7,12 @@ Tutorial on how to make your electrified standing desk smarter.
 In this project we’ll explore the possibilities to interface with a standing desk from a microcontroller (in this tutorial Pico w). We’ll also connect some necessary and some optional sensors for high measurement, temperature, room humidity and light intensity. To make it useful we’ll be sending data over MQTT, displaying data in home assistant and make some automations.
 The time estimate for this project is TIME. Distributed as followed:
 
-•	Setting up Home Assistant:
-•	Setting up local MQTT broker:
-•	Setting up HASS.agent
-•	Building the hardware:
-•	Program the microcontroller
-•	Creating the dashboard in Home Assistant
+•	Setting up Home Assistant. \n
+•	Setting up local MQTT broker.
+•	Setting up HASS.agent.
+•	Building the hardware.
+•	Program the microcontroller.
+•	Creating the dashboard in Home Assistant.
 
 Objective
 To me this is a project to make my home office smarter and more automated. I have a motorised standing disk that I barely use. The sun hits my screens in the morning, and the work light is poor during the evenings. To solve this, I’ll make automations to rase the desk if I’m seated for to long. Activate smart blinds to (only) shade my screens and install a led strip over my working area controlled by the desk’s microcontroller.
